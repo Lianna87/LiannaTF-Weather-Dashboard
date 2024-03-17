@@ -101,7 +101,7 @@ section {
 }
 
 
-/* Viewports Styling*/
+/* Viewports Styling */
 
 @media screen and (max-width: 575px) {
     .search-panel {
@@ -125,3 +125,17 @@ section {
         width: 60%;
     }
 }
+
+/* Footer */
+
+footer {
+    text-align: center;
+    color: black;
+    border-radius: 0;
+    margin: 100px 0px 0px 0px;
+    padding: 20px 0px 0px 0px;
+  }
+  
+  .footerText {
+    font-size: 75%;
+  }
